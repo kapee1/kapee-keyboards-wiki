@@ -8,4 +8,4 @@ Section for firmware. Publish your notes and instructions here.
 
 ## Articles
 
-*(пока пусто)*
+*(coming soon)*

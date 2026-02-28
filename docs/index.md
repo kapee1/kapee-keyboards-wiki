@@ -8,4 +8,4 @@ General documentation section. Here you can collect helper articles and guides.
 
 ## Articles
 
-*(пока пусто)*
+*(coming soon)*
