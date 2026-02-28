@@ -1,10 +1,10 @@
-title: kapee keyboards wiki
-description: all of my projects
+title: kapee's wiki
+description: A wiki for kapee's keyboards and related projects.
 remote_theme: just-the-docs/just-the-docs
 #logo: /assets/images/logo.png
 
 url: https://kapee1.github.io
-baseurl: /kapee-keyboards-wiki
+baseurl: /kapee-wiki
 
 
 
