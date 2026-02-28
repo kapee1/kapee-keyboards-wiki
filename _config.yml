@@ -4,3 +4,12 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://kapee1.github.io/kapee-keyboards-wiki
 
+# custom navigation for project sections
+nav:
+  - Home: index.md
+  - Keyboards: keyboards/index.md
+  - Cases: cases/index.md
+  - Keycaps: keycaps/index.md
+  - Firmware: firmware/index.md
+  - Docs: docs/index.md
+
