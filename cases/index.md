@@ -1,9 +1,11 @@
 ---
 title: Cases
+nav_order: 2
+has_toc: false
 ---
 
-Раздел для корпусов. Публикуйте тут свои статьи о корпусах.
+Section for keyboard cases. Publish your articles about cases here.
 
-## Статьи
+## Articles
 
 - [Pelican](pelican/)

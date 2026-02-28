@@ -1,10 +1,12 @@
 ---
 title: Keyboards
+nav_order: 3
+has_toc: false
 ---
 
-Добро пожаловать в раздел клавиатур. Здесь будут ваши статьи о собственных проектах клавиатур.
+Welcome to the keyboards section. Here you can publish your articles about your own keyboard projects.
 
-## Статьи
+## Articles
 
 - [Soroka – DIY-Friendly 40% keyboard](soroka/)
 - [Osprey Remix](osprey-remix/)

@@ -1,6 +1,7 @@
 ---
 title: Pelican
 parent: Cases
+has_toc: false
 ---
 
 # pelican  

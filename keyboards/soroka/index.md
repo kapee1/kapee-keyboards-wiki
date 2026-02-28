@@ -1,6 +1,7 @@
 ---
 title: Soroka – DIY-Friendly 40% keyboard
 parent: Keyboards
+has_toc: false
 ---
 
 # soroka - DIY-Friendly 40% keyboard

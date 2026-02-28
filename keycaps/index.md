@@ -1,9 +1,11 @@
 ---
 title: Keycaps
+nav_order: 4
+has_toc: false
 ---
 
-Страница для кейкапов. Здесь будут материалы о ваших кейкапах.
+Page for keycap sets. Here you will find materials about your keycaps.
 
-## Статьи
+## Articles
 
 *(пока пусто)*

@@ -1,9 +1,11 @@
 ---
-title: Docs
+title: Documentation
+nav_order: 6
+has_toc: false
 ---
 
-Общий раздел документации. Сюда можно складывать вспомогательные статьи и руководства.
+General documentation section. Here you can collect helper articles and guides.
 
-## Статьи
+## Articles
 
 *(пока пусто)*

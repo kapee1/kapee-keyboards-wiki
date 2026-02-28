@@ -1,9 +1,11 @@
 ---
 title: Firmware
+nav_order: 5
+has_toc: false
 ---
 
-Секция для прошивок. Публикуйте свои заметки и инструкции здесь.
+Section for firmware. Publish your notes and instructions here.
 
-## Статьи
+## Articles
 
 *(пока пусто)*
