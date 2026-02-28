@@ -6,5 +6,5 @@ title: Keyboards
 
 ## Статьи
 
-- [Soroka – DIY-Friendly 40% keyboard](soroka.md)
-- [Osprey Remix](osprey-remix.md)
+- [Soroka – DIY-Friendly 40% keyboard](soroka/)
+- [Osprey Remix](osprey-remix/)

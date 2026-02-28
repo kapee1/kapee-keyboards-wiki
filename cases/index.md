@@ -6,4 +6,4 @@ title: Cases
 
 ## Статьи
 
-- [Pelican](pelican.md)
+- [Pelican](pelican/)

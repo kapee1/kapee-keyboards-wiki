@@ -1,6 +1,5 @@
 ---
 title: Osprey Remix
-sidebar: false
 ---
 
 ## Remix of the most beautiful ergonomic monosplit in my opinion

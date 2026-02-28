@@ -1,6 +1,5 @@
 ---
 title: Pelican
-sidebar: false
 ---
 
 # pelican  

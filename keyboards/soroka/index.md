@@ -1,6 +1,5 @@
 ---
 title: Soroka – DIY-Friendly 40% keyboard
-sidebar: false
 ---
 
 # soroka - DIY-Friendly 40% keyboard
