@@ -24,7 +24,7 @@ has_toc: false
 * Variable bottom row with 3u spacebar support.
 * Customizable magnet panels
 * VIAL/QMK/[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
-* Hotswap PCB available (untested). Hotswap PCB uses different diodes. Check the BOM file for details.
+* Hotswap PCB available. Hotswap PCB uses different diodes. Check the BOM file for details.
 
 ## Layout
 
@@ -35,8 +35,6 @@ has_toc: false
 ![sizes](https://github.com/user-attachments/assets/43c70d04-38ef-4c08-8f5c-f754aee75991)
 
 ## Hotswap PCB BOM
-
-**Note:** PCB is still untested
 
 | Part | Quantity |
 |------|----------|

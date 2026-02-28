@@ -23,8 +23,8 @@ To build firmware, simply clone this repo: https://github.com/kapee1/osprey-remi
 
 | Part | Quantity |
 |------|----------|
-| Osprey-remix PCB | 1 |
-| Osprey Plate | 1 |
+| Osprey-remix PCB (1.2 mm)| 1 |
+| Osprey Plate (1.2 mm) | 1 |
 | Osprey-remix Bottom case | 1 |
 | Osprey-remix Top case | 1 |
 | M2 x 8mm screws | 9 |
