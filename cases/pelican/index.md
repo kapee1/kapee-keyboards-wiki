@@ -1,5 +1,6 @@
 ---
 title: Pelican
+parent: Cases
 ---
 
 # pelican  

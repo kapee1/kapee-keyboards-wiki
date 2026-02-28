@@ -1,5 +1,6 @@
 ---
 title: Osprey Remix
+parent: Keyboards
 ---
 
 ## Remix of the most beautiful ergonomic monosplit in my opinion
