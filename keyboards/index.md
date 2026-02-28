@@ -4,9 +4,9 @@ nav_order: 3
 has_toc: false
 ---
 
-Welcome to the keyboards section. Here you can publish your articles about your own keyboard projects.
+Welcome to the keyboards section. There are my keyboard projects.
 
 ## Articles
 
-- [Soroka – DIY-Friendly 40% keyboard](soroka/)
-- [Osprey Remix](osprey-remix/)
+- [[45%] Soroka](soroka/)
+- [[40% Ergo] Osprey Remix](osprey-remix/)

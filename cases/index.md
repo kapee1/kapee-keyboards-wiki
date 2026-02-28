@@ -4,8 +4,8 @@ nav_order: 2
 has_toc: false
 ---
 
-Section for keyboard cases. Publish your articles about cases here.
+Section for keyboard cases I made
 
 ## Articles
 
-- [Pelican](pelican/)
+- [[60%] Pelican](pelican/)

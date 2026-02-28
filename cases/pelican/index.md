@@ -5,7 +5,7 @@ has_toc: false
 ---
 
 # pelican  
-60% O-ring keyboard  
+60% O-ring keyboard case 
 
 ![PXL_20250309_074323333 MP](https://github.com/user-attachments/assets/1b0208c2-74c1-4ca0-8578-b7bf864fc08d)  
 
