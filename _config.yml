@@ -7,8 +7,13 @@ url: https://kapee1.github.io/kapee-keyboards-wiki
 # custom navigation for project sections
 nav:
   - Home: index.md
-  - Keyboards: keyboards/index.md
-  - Cases: cases/index.md
+  - Keyboards:
+      - Overview: keyboards/index.md
+      - Soroka: keyboards/soroka.md
+      - Osprey Remix: keyboards/osprey-remix.md
+  - Cases:
+      - Overview: cases/index.md
+      - Pelican: cases/pelican.md
   - Keycaps: keycaps/index.md
   - Firmware: firmware/index.md
   - Docs: docs/index.md
