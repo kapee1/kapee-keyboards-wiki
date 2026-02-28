@@ -11,3 +11,4 @@ Welcome to the keyboards section. There are my keyboard projects.
 - [[40%] Soroka](soroka/)
 - [[40% Ergo] Osprey Remix](osprey-remix/)
 - [[45%] Laika](laika/)
+- [[30% Ergo] Korsak](korsak/)
