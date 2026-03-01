@@ -8,6 +8,9 @@ has_toc: false
 
 ![PXL_20240908_092151507](https://github.com/user-attachments/assets/d3ecc987-b74d-41c7-9bb6-479619c4c737)
 
+[Github](https://github.com/kapee1/soroka){: .btn .btn-outline }
+
+
 ## Build Guide
 
 [English](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md){: .btn .btn-purple .mr-5 } 

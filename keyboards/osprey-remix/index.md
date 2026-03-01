@@ -8,6 +8,9 @@ has_toc: false
 
 ![image](https://github.com/kapee1/osprey-remix/assets/98476799/7af3c1bf-97a7-4ac2-a302-70dc6560787c)
 
+
+[Github](https://github.com/kapee1/osprey-remix){: .btn .btn-outline }
+
 ## About
 
 I really like how the original Osprey looks, but it is very difficult to assemble it yourself. This remix allows you to build it much easier and it still can be wireless! However, the assembly is not the easiest due to the size of the diodes.

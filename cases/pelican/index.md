@@ -8,6 +8,8 @@ has_toc: false
 
 ![PXL_20250309_074323333 MP](https://github.com/user-attachments/assets/1b0208c2-74c1-4ca0-8578-b7bf864fc08d)
 
+[Github](https://github.com/kapee1/pelican){: .btn .btn-outline }
+
 ## Main features
 
 * Unikorn-like O-ring mount  
