@@ -1,7 +1,7 @@
 title: kapee's wiki
 description: A wiki for kapee's keyboards and related projects.
 remote_theme: just-the-docs/just-the-docs
-logo: /assets/images/logo.svg
+logo: /assets/images/header-logo.svg
 #color_scheme: dark
 # explicit favicon entry (optional)
 favicon_ico: /assets/images/logo.svg
