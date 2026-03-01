@@ -10,7 +10,7 @@ has_toc: false
 
 ## Build Guide
 
-[English](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md){: .btn .btn-purple } 
+[English](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md){: .btn .btn-purple .mr-5 } 
 [Russian](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BRU%5D.md){: .btn .btn-green }
 
 **Note:** Parts for v1 and v2 are not compatible!

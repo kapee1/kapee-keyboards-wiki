@@ -2,6 +2,8 @@ title: kapee's wiki
 description: A wiki for kapee's keyboards and related projects.
 remote_theme: just-the-docs/just-the-docs
 #logo: /assets/images/logo.png
+color_scheme: dark
+
 
 url: https://kapee1.github.io
 baseurl: /kapee-wiki
