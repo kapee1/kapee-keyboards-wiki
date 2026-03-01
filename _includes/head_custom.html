@@ -1,3 +1,5 @@
-<!-- Add favicon (SVG/PNG) support -->
-<link rel="icon" href="{{ site.baseurl }}{{ site.logo | default: '/assets/images/logo.svg' }}" type="image/svg+xml">
-<link rel="alternate icon" href="{{ site.baseurl }}{{ site.logo | default: '/assets/images/logo.svg' }}" type="image/png">
+<!-- Add favicon (SVG/PNG) support: use relative_url to respect `baseurl` -->
+<link rel="icon" href="{{ site.logo | default: '/assets/images/logo.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ site.logo | default: '/assets/images/logo.svg' | relative_url }}" type="image/png">
+<!-- fallback for older browsers: PNG at same path with explicit rel -->
+<link rel="shortcut icon" href="{{ site.logo | default: '/assets/images/logo.svg' | relative_url }}">

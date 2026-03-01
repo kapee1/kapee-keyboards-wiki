@@ -3,6 +3,8 @@ description: A wiki for kapee's keyboards and related projects.
 remote_theme: just-the-docs/just-the-docs
 logo: /assets/images/logo.svg
 #color_scheme: dark
+# explicit favicon entry (optional)
+favicon_ico: /assets/images/logo.svg
 
 
 url: https://kapee1.github.io
